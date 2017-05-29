@@ -1,0 +1,35 @@
+{
+    "nieuws":
+    [
+        {
+            "titel": "Google IO 2017: all the news from Google's big developer conference",
+            "id": 212,
+            "datum": "18/05/2017 • 22:45",
+            "categorieen": ["categorie 1","categorie 2"],
+            "samenvatting": "Google IO 2017 Day 2 was packed with tons of sessions and up-close looks at what's next for Google. Here's all the big news from the day: ",
+            "body": "<p>The biggest pieces of news so far: Google Assistant is coming to iPhone. Siri better watch out as the Google Assistant app on iOS is out today. It works much the same as Google Assistant on Android, just as a standalone application. However, Google isn't set only on elbowing into iPhone, with aims to bring Google Assistant to various home appliances as well as vehicles.</p>",
+            "afbeeldingl": "3H245fD73KvXZMmKJXXGK7-970-80.jpg",
+            "afbeeldings": "fNLNrUbymvy45yYYThoNcZ-650-80.png"
+        },
+        {
+            "titel": "3D printed organ tech just took a giant leap forward",
+            "id": 210,
+            "datum": "19/05/2017 • 08:43",
+            "categorieen": ["categorie 3","categorie 5"],
+            "samenvatting": "A team of scientists based out of the University of Florida has created a way of printing 3D objects suspended in a near solid structure, opening the door to the printing of complex organic structures. ",
+            "body": "<p>A team of scientists based out of the University of Florida has created a way of printing 3D objects suspended in a near solid structure, opening the door to the printing of complex organic structures. There are currently methods for printing organs, which is a pretty incredible sentence to type, but these are met by the hurdle that soft materials are difficult to print in a way that they maintain their structure during the printing process. This has meant that complex organs that require space in their construction (like the heart with its many chambers) are incredibly difficult to print. In the paper published on Science Advances, the team led by Christopher S. O’Bryan has vaulted this hurdle by printing directly into soft solid structures made of micro-organogels that can hold soft structures in place during printing. </p>",
+            "afbeeldingl": "qHD9rVoAJ3KjLeaFNowuSV-970-80.jpg",
+            "afbeeldings": "T8YfsqiyugMfcPM86prrb6-650-80.jpg"
+        },
+        {
+            "titel": "Why non-driverless electric cars will never take off",
+            "id": 198,
+            "datum": "19/05/2017 • 06:06",
+            "categorieen": ["categorie 1","categorie 4"],
+            "samenvatting": "Since the invention of the car, every single model ever produced has shared the same horrifically inefficient component. ",
+            "body": "<p>Since the invention of the car, every single model ever produced has shared the same horrifically inefficient component. It's a component that literally doubles an average car's stopping distance at 20mph, and increases it by over ten meters at 40mph. It often causes the car to waste fuel by over-accelerating, and it's also prone to wearing out over long journeys or when the vehicle is used late at night. Cars have gotten lighter and lighter over the years, and their designers spend hours sculpting them to minimise air-resistance, but this single feature has proved depressingly resilient. You've probably guessed that the component I'm talking about is the slow to respond, easily distracted, and easily tired human being sitting behind the wheel. But the truth is that now, with the advent of mass-market electric vehicles, the replacement of the car's most inefficient component is more essential than ever before. </p>",
+            "afbeeldingl": "aAvLCk63zfrJRWRFKHTcm-970-80.jpg",
+            "afbeeldings": "aAvLCk63zfrJRWRFKHTcm-970-80.jpg"
+        }
+    ]
+}
